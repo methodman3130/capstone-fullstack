@@ -4,7 +4,7 @@ A RESTful product management API built with Node.js, Express, MongoDB, and Mongo
 Supports full product CRUD, keyword search, category filtering, schema validation,
 JWT authentication with role-based access control, and consistent JSON error handling.
 
-A React + Tailwind front end for this API lives in `capstone-2-ecommerce-client`.
+The API is ready for a React + Tailwind frontend `capstone-2-ecommerce-client`.
 
 ---
 
